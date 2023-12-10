@@ -1,0 +1,35 @@
+#intro .container {
+  height: calc(100vh - 3.5rem - 11.5rem);
+}
+
+.container {
+  background: transparent;
+  height: 100%;
+  width: 100%;
+}
+
+.profile {
+  height: 11rem;
+  width: 11rem;
+  background: #edf7fa;
+  border-radius: 50%;
+}
+
+.intro-text {
+  font-size: 2rem;
+  text-align: center;
+  margin: 0;
+}
+
+.intro-description {
+  text-align: center;
+  padding: 1rem;
+}
+
+.cta-button {
+  padding: 1rem;
+  background: #ff6464;
+  color: #ffffff;
+  outline: none;
+  border: none;
+}
