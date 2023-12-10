@@ -72,11 +72,3 @@ main {
   height: 0.1rem;
   background: #21243d;
 }
-
-.intro-container {
-  display: flex;
-  flex-direction: column;
-  height: 100%;
-  align-items: center;
-  justify-content: space-evenly;
-}
