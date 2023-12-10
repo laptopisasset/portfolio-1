@@ -64,6 +64,7 @@ main {
   padding: 0;
   border: none;
   height: 2.5rem;
+  background: transparent;
 }
 
 .toggle-button__bar {
